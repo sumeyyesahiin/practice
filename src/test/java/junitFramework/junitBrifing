@@ -1,0 +1,9 @@
+unit test= developerlarin  yazdiklari ve tek basina calisabilecekleri
+en kucuk kod blogunun test edilmesi.
+
+framework= kodlari yazip birlikte calisabilmemiz icin bir yapidir.
+kendi binamizi insa etmek gibi dusunebiliriz.
+
+junit
+annotations'lari kullanmamizi saglar. annotation= bilgi iceren datalar.
+(main methoda ihtiyacimiz kalmaz.)
