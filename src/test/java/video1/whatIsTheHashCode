@@ -1,0 +1,5 @@
+                                       Hash kodu ne işe yarar?
+Hash, bir dosyanın bir yerden diğerine aktarıldıktan sonra bütünlüğünü doğrulamak için de kullanılır,
+genellikle SyncBack gibi bir dosya yedekleme programında. Aktarılan dosyanın bozulmadığından
+emin olmak için kullanıcı her iki dosyanın karma değerini karşılaştırabilir.
+Aynıysa, aktarılan dosya aynı kopyadır.
